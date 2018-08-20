@@ -1,0 +1,63 @@
+console.log (r); // Indonesian
+
+var t = 'Ciao , mondo!';
+console.log (t); // Italian
+
+var u = 'Hola , mondo!';
+console.log (u); // Spanish
+
+var d = "I'm awesome";
+console.log(d);
+
+var i =  // declare var i not initialized
+console.log("four");
+console.log("4");
+var i = 4;
+console.log();
+
+var y = 'Emmanuel Anibeu';
+console.log("myFullName");
+console.log(y);
+var x = 'I love HYC';
+console.log("I love HYC");
+console.log(x);
+
+var z =7.25;
+console.log(z);
+var a =Math.round(z);
+console.log(a);
+var result = z>a;
+console.log(result);
+
+var cars = []
+console.log( ['Ford', 'Jeep', 'Fiat']);
+console.log(cars);
+var animals = ['shark','ant','horse'];
+console.log(animals);
+animals.push("Kitten");
+console.log(animals);
+
+let myString = "this is a test";
+console.log(myString);
+let bat =myString.length;
+console.log (bat);
+
+var e = 3;
+var f = 9;
+var g = 2;
+var h=(e +f);
+console.log (h);
+var p =(f/e);
+console.log (p);
+var s=(f%g);
+console.log (s);
+
+var v =(f%e);
+console.log (v);
+var w =(e%g);
+console.log (w);
+
+let dAry =['Emmanuel','Anibeu','100','6.4'];
+console.log (dAry);
+var ou =  6/0 === 10/0;
+console.log (ou);
